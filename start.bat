@@ -1,3 +1,3 @@
 @ECHO OFF
-%USERPROFILE%\AppData\Local\Programs\Python\Python35\python.exe improved-shitposter.py
+%USERPROFILE%\AppData\Local\Programs\Python\Python35\python.exe shitposter.py
 PAUSE
