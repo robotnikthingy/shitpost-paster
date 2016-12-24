@@ -3,7 +3,7 @@ Generates shitposts right to your clipboard generated from 4chan or text files
 
 ##Setup
 1. First install Python 3.5.2 ([Windows installer](https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe) [Mac Installer](https://www.python.org/ftp/python/3.5.2/python-3.5.2-macosx10.6.pkg))
-2. Download the shitpost paster from the releases page
+2. Download the shitpost paster from the releases page [Here](https://github.com/robotnikthingy/shitpost-paster/releases)
 3. Run setup.bat to have it install all the required dependencies (only needs to be done once, mac and linux owners will need to do this manually)
 4. Run start.bat to start using the shitpost paster
 
@@ -18,4 +18,9 @@ Shitposts are automatically loaded into your clipboard, allowing for easy pastin
 
 ##Dependencies
 The setup.bat should handle this automatically, but for those who need to do it manually the dependencies are:
-*
+
+*PyMarkovChain
+
+*pyperclip
+
+*pywin32
