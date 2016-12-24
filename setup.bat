@@ -5,4 +5,6 @@
 %USERPROFILE%\AppData\Local\Programs\Python\Python35\python.exe -m pip install tkinter
 %USERPROFILE%\AppData\Local\Programs\Python\Python35\python.exe -m pip install ctypes
 
+echo You can now close this
+
 PAUSE
